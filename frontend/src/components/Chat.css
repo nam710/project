@@ -1,0 +1,32 @@
+.message-area{
+    height: 70vh;
+}
+
+.message{
+    
+    color: white;
+    padding: 10px;
+    font-size: 1.3em;
+    max-width: 50%;
+    width: fit-content;
+    margin-top: 20px;
+    
+}
+
+.sent{
+    background: linear-gradient(to right, rgb(176, 70, 218), rgb(96, 68, 216));
+    border-radius: 20px 0 20px 20px;
+    margin-left: auto;
+  
+  
+   
+}
+
+.rec{
+    background: linear-gradient(to right, rgb(42, 167, 135), rgb(75, 197, 206));
+    border-radius: 0 20px 20px 20px;
+   
+}
+.chat-card{
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
